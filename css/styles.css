@@ -80,7 +80,7 @@ a:active {
  }
 
  .profile {
-    max-width: 700px;
+    max-width: 700px; 
     margin: 0 auto;
  }
 
@@ -94,7 +94,7 @@ a:active {
     background-color: var(--flex-item-bg);
     height: 75px;
     margin: 10px;
-    text-align: center;
+    text-align: center !important;
     color: white;
     line-height: 75px;
     flex-basis: 20px;
